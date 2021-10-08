@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 5 Random Divisible", "Part 5 Random Divisible.csproj", "{32AFE6DE-293A-4BC6-8567-7A4506F0C7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AFE6DE-293A-4BC6-8567-7A4506F0C7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AFE6DE-293A-4BC6-8567-7A4506F0C7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AFE6DE-293A-4BC6-8567-7A4506F0C7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AFE6DE-293A-4BC6-8567-7A4506F0C7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A42EA47-1A9F-42CE-B031-3C4E1324EE1B}
+	EndGlobalSection
+EndGlobal
